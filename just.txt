@@ -1,5 +1,0 @@
-font-family: 'Raleway', sans-serif;
-font-family: 'Ranga', cursive;
-font-family: 'Grand Hotel', cursive;
-font-family: 'Calligraffitti', cursive;
-font-family: 'Sue Ellen Francisco', cursive;
