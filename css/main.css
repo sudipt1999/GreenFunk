@@ -7659,6 +7659,12 @@ body {
   #showcase {
     min-height: 500px; }
     #showcase h1 {
-      font-size: 4rem; } }
+      font-size: 4rem; }
+    
+      #people img {
+        height: 150px;
+        width: 150px; }
+    
+    }
 
 /*# sourceMappingURL=main.css.map */
